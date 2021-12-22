@@ -1,7 +1,7 @@
-#webpack starter
+#Webpack starter
 este es el proyecyo  inicial
 
-#NOtas:
+#Notas:
 recuerden reconstruir los moduloa de Node..
 
 y para contruir el buid, recuerden.
